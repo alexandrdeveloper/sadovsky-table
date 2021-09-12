@@ -1,0 +1,21 @@
+:root {
+
+	/* Colors */
+		--primary: #0a0a0a;
+		--secondary: #e7ae87;
+
+		--whiteColor: #ffffff;
+		--blackColor: #000000;
+		--greyColor: #c4c4c4;
+
+	/* Typography */
+		--headingFont: 'Cormorant', serif;
+		--bodyFont: 'Montserrat', sans-serif;
+
+		--heading1: 4rem;
+		--heading2: 3rem;
+		--bodyLarge: 2.5rem;
+		--bodyMedium: 2rem;
+		--bodyNormal: 1.5rem;
+		--bodySmall: 1.3rem;	
+ } 
